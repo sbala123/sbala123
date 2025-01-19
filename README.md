@@ -17,10 +17,10 @@ Hello! I’m Bala, a dedicated DevOps enthusiast on a mission to deepen my exper
 - **Cloud Platforms:** AWS, Azure
 
 ## 🌐 Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balamurugan-subramani-6740b319a/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balamurugansubramani99/)!
 
 ## 📫 Get in Touch
-I’d love to hear from you! Reach out via email at [muruganbala6545@gmail.com](mailto:muruganbala6545@gmail.com).
+I’d love to hear from you! Email me at [muruganbala6545@gmail.com](mailto:muruganbala6545@gmail.com).
 
 ---
 
